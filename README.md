@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://vk.com/petr_soldatov" target="blank"><img align="center" src="https://img.icons8.com/color/48/vk-com.png" alt="aulerok" height="40" width="40" /></a>
-<a href="https://facebook.com/aulerok" target="blank"><img align="center" src="https://img.icons8.com/color/48/facebook.png" alt="aulerok" height="40" width="40" /></a>
-<a href="https://www.instagram.com/aulerok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aulerok" height="30" width="40" /></a>
-<a href="https://t.me/aulerok" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-cloud-based-instant-messaging-telegram-mobile-app-logotype-logo-color-tal-revivo.png" alt="aulerok" height="30" width="30" /></a>
-<a href="https://wa.me/89992114222" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-whatsapp-messenger-cross-platform-mobile-devices-messaging-application-logo-color-tal-revivo.png" alt="aulerok" height="30" width="30" /></a>
+<a href="https://vk.com/petr_soldatov" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_32-vk-1024.png" alt="aulerok" height="40" width="40" /></a>
+<a href="https://facebook.com/aulerok" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-1024.png" alt="aulerok" height="40" width="40" /></a>
+<a href="https://www.instagram.com/aulerok" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" alt="aulerok" height="40" width="40" /></a>
+<a href="https://t.me/aulerok" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2146/512/37_social-1024.png" alt="aulerok" height="40" width="40" /></a>
+<a href="https://wa.me/89992114222" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-1024.png" alt="aulerok" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
