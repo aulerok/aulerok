@@ -32,7 +32,7 @@
 ---
 
 <h3 align="left"> My tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="css3" width="50" height="50"/> </a> <a align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" alt="css3" width="50" height="50"/> </a>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="css3" width="50" height="50"/> </a> <a align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-1024.png" alt="css3" width="50" height="50"/> </a> <a align="left"> <a href="https://ru.wikipedia.org/wiki/HTML" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-html-5-1024.png" alt="css3" width="50" height="50"/> </a> <a align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.iconfinder.com/icons/7564187/figma_logo_brand_icon" alt="css3" width="50" height="50"/> </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aulerok&show_icons=true&locale=en" alt="aulerok" /></p>
