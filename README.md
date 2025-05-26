@@ -6,7 +6,9 @@
 <h5 align="left">🌏 Everywhere and always </h5>
 <h5 align="left">💵 There is no such thing as free, you have to pay for everything </h5>
 
-<hr>
+<div align="center">
+  <img src="https://github.com/username/username/blob/main/assets/divider.svg" alt="divider" width="100%" height="5">
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aulerok&label=Profile%20views&color=0e75b6&style=flat" alt="aulerok" /> </p>
 
