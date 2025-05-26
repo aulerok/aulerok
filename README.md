@@ -7,9 +7,9 @@
 <h5 align="left">💵 There is no such thing as free, you have to pay for everything </h5>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aulerok&label=Profile%20views&color=0e75b6&style=flat" alt="aulerok" /> </p>
+#<p align="left"> <img src="https://komarev.com/ghpvc/?username=aulerok&label=Profile%20views&color=0e75b6&style=flat" alt="aulerok" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aulerok" alt="aulerok" /></a> </p>
+#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aulerok" alt="aulerok" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
