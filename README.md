@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋,I am Piter Soldatov</h1>
 <h3 align="center">A freelancer, developer & programmer </h3>
 
-<h4 align="left">✈️ Freedom and beer, thats i would need everywhere </h4>
-<h4 align="left">💻 Hard codding and it'll be cool </h4>
+<h5 align="left">✈️ Freedom and beer, thats i would need everywhere </h5>
+<h5 align="left">💻 Hard codding and it'll be cool </h5>
+<h5 align="left">🌏 Everywhere and always </h5>
+<h5 align="left">💵 There is no such thing as free, you have to pay for everything </h5>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aulerok&label=Profile%20views&color=0e75b6&style=flat" alt="aulerok" /> </p>
 
