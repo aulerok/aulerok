@@ -9,9 +9,9 @@
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aulerok&label=Profile%20views&color=0e75b6&style=flat" alt="aulerok" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aulerok" alt="aulerok" /></a> </p>
-
+--->
 ---
 
 <h3 align="left">Connect with me:</h3>
@@ -36,4 +36,5 @@
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" alt="css3" width="50" height="50"/> </a> <a align="left"> </a> <a align="left"> <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="css3" width="50" height="50"/> </a> <a href="https://figma.com" target="_blank" rel="noreferrer"> <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-1024.png" alt="css3" width="50" height="50"/> </a>  <a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="css3" width="50" height="50"/> </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aulerok&show_icons=true&locale=en" alt="aulerok" /></p>
+<!--
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aulerok&show_icons=true&locale=en" alt="aulerok" /></p> --->
