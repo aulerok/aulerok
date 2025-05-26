@@ -14,7 +14,7 @@
 <a href="https://wa.me/89992114222" target="blank"><img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_23-whatsapp-1024.png" alt="aulerok" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left"> <a href="https://www.state.gov" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/United-States-Flag.png" alt="css3" width="40" height="40"/> </a> <a href="http://kremlin.ru" target="_blank" rel="noreferrer"> <img src="https://cdn3.iconfinder.com/data/icons/finalflags/256/Russia-Flag.png" alt="css3" width="40" height="40"/> </a>
 
 </p>
