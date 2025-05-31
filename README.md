@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋,I am Piter Soldatov</h1>
+<h1 align="center">Hi 👋,I am Petr Soldatov</h1>
 <h3 align="center">A freelancer, developer & programmer </h3>
 
 <h5 align="left">✈️ Freedom and beer, thats i would need everywhere </h5>
